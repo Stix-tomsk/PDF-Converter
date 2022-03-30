@@ -33,4 +33,4 @@ Congratulations! You made your first pdf file and made friends with the bot.
 
 Save your time on creating files and don't swear with the bot, good luck building!
 
-P.S. Special thanks to jorisschellekens for creating a great PDF layout library :)
+> P.S. Special thanks to jorisschellekens for creating a great PDF layout library :)
