@@ -8,7 +8,7 @@ This bot receives images one by one by standart attach method and contains the f
 All images are automatically scaled to fit the page width.
 
 ## Instructions for use
-First of all, add a bot using the @PDFC0nverterBot tag or the link t.me/PDFC0nverterBot.
+First of all, add a bot using the @PDFC0nverterBot tag or the [link](https://t.me/PDFC0nverterBot).
 After that write him /start. Congratulations, you are one step closer to understanding with this bot.
 
 ![1](https://user-images.githubusercontent.com/57837079/160773909-c0ef936d-b6d7-4a4e-9972-9d7580bd46d3.png)
